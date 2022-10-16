@@ -6,3 +6,6 @@
 - Admin Login to generate receipt tally and make financial reports for taxes.
 
 • Methodologies learned: Object Oriented Programming, Unit Testing, File Handling, Databases
+
+There are total 9 files in this project
+Copy all these 9 files in BIN folder to execute the project
